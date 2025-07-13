@@ -1,0 +1,28 @@
+@keyframes battle-left {
+  0% { transform: translateX(0) scale(1); }
+  50% { transform: translateX(30px) scale(1.2); }
+  100% { transform: translateX(0) scale(1); }
+}
+
+@keyframes battle-right {
+  0% { transform: translateX(0) scale(1); }
+  50% { transform: translateX(-30px) scale(1.2); }
+  100% { transform: translateX(0) scale(1); }
+}
+
+@keyframes zoom-in {
+  0% { transform: scale(0.8); opacity: 0; }
+  100% { transform: scale(1.2); opacity: 1; }
+}
+
+.animate-battle-left {
+  animation: battle-left 1.5s ease-in-out forwards;
+}
+
+.animate-battle-right {
+  animation: battle-right 1.5s ease-in-out forwards;
+}
+
+.animate-zoom-in {
+  animation: zoom-in 0.7s ease forwards;
+}

@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jelena\\Desktop\\short-game\\GameApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C40ED97B-8DCA-43F3-8FB4-6B8ED74CC374}|GameApi.csproj|c:\\users\\jelena\\desktop\\short-game\\gameapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C40ED97B-8DCA-43F3-8FB4-6B8ED74CC374}|GameApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40ED97B-8DCA-43F3-8FB4-6B8ED74CC374}|GameApi.csproj|c:\\users\\jelena\\desktop\\short-game\\gameapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40ED97B-8DCA-43F3-8FB4-6B8ED74CC374}|GameApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40ED97B-8DCA-43F3-8FB4-6B8ED74CC374}|GameApi.csproj|c:\\users\\jelena\\desktop\\short-game\\gameapi\\gameapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C40ED97B-8DCA-43F3-8FB4-6B8ED74CC374}|GameApi.csproj|solutionrelative:gameapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40ED97B-8DCA-43F3-8FB4-6B8ED74CC374}|GameApi.csproj|c:\\users\\jelena\\desktop\\short-game\\gameapi\\services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40ED97B-8DCA-43F3-8FB4-6B8ED74CC374}|GameApi.csproj|solutionrelative:services\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40ED97B-8DCA-43F3-8FB4-6B8ED74CC374}|GameApi.csproj|c:\\users\\jelena\\desktop\\short-game\\gameapi\\routes\\errorroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40ED97B-8DCA-43F3-8FB4-6B8ED74CC374}|GameApi.csproj|solutionrelative:routes\\errorroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40ED97B-8DCA-43F3-8FB4-6B8ED74CC374}|GameApi.csproj|c:\\users\\jelena\\desktop\\short-game\\gameapi\\routes\\gameroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40ED97B-8DCA-43F3-8FB4-6B8ED74CC374}|GameApi.csproj|solutionrelative:routes\\gameroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Jelena\\Desktop\\Finiti\\GlossaryApi\\Controllers\\TermController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40ED97B-8DCA-43F3-8FB4-6B8ED74CC374}|GameApi.csproj|c:\\users\\jelena\\desktop\\short-game\\gameapi\\repositories\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40ED97B-8DCA-43F3-8FB4-6B8ED74CC374}|GameApi.csproj|solutionrelative:repositories\\gamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40ED97B-8DCA-43F3-8FB4-6B8ED74CC374}|GameApi.csproj|c:\\users\\jelena\\desktop\\short-game\\gameapi\\routes\\authroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40ED97B-8DCA-43F3-8FB4-6B8ED74CC374}|GameApi.csproj|solutionrelative:routes\\authroute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 380,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameApi.csproj",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\short-game\\GameApi\\GameApi.csproj",
+              "RelativeDocumentMoniker": "GameApi.csproj",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\short-game\\GameApi\\GameApi.csproj",
+              "RelativeToolTip": "GameApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-13T10:59:23.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\short-game\\GameApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\short-game\\GameApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-13T10:38:32.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\short-game\\GameApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\short-game\\GameApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T08:49:47.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TermController.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\Finiti\\GlossaryApi\\Controllers\\TermController.cs",
+              "RelativeDocumentMoniker": "..\\..\\Finiti\\GlossaryApi\\Controllers\\TermController.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\Finiti\\GlossaryApi\\Controllers\\TermController.cs",
+              "RelativeToolTip": "..\\..\\Finiti\\GlossaryApi\\Controllers\\TermController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAIBJwB0AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T09:47:45.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameService.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\short-game\\GameApi\\Services\\GameService.cs",
+              "RelativeDocumentMoniker": "Services\\GameService.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\short-game\\GameApi\\Services\\GameService.cs",
+              "RelativeToolTip": "Services\\GameService.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAxwC4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T01:32:16.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorRoute.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\short-game\\GameApi\\Routes\\ErrorRoute.cs",
+              "RelativeDocumentMoniker": "Routes\\ErrorRoute.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\short-game\\GameApi\\Routes\\ErrorRoute.cs",
+              "RelativeToolTip": "Routes\\ErrorRoute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T09:33:28.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameRoute.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\short-game\\GameApi\\Routes\\GameRoute.cs",
+              "RelativeDocumentMoniker": "Routes\\GameRoute.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\short-game\\GameApi\\Routes\\GameRoute.cs",
+              "RelativeToolTip": "Routes\\GameRoute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T01:22:44.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\short-game\\GameApi\\Repositories\\GameRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\GameRepository.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\short-game\\GameApi\\Repositories\\GameRepository.cs",
+              "RelativeToolTip": "Repositories\\GameRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T08:50:30.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthRoute.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\short-game\\GameApi\\Routes\\AuthRoute.cs",
+              "RelativeDocumentMoniker": "Routes\\AuthRoute.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\short-game\\GameApi\\Routes\\AuthRoute.cs",
+              "RelativeToolTip": "Routes\\AuthRoute.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBUAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T01:20:34.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 140,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

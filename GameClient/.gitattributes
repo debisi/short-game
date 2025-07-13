@@ -1,0 +1,11 @@
+# Set all files to be normalized and checked out with native line endings
+* text=auto
+
+# Explicitly set common file types as text
+*.js text
+*.ts text
+*.tsx text
+*.json text
+*.html text
+*.css text
+*.md text
